@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bhargavi", "bhargavi\bhargavi.vbproj", "{62270BA5-5302-4697-AB64-9C2F550FCA9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A13BA041-CE31-434F-AB73-035FE15FF72D}"
+	ProjectSection(SolutionItems) = preProject
+		bhargavi\home.vb = bhargavi\home.vb
+		bhargavi\login.vb = bhargavi\login.vb
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.vbproj", "{DB0A590D-F037-470E-96A6-1E09F5E126A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62270BA5-5302-4697-AB64-9C2F550FCA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62270BA5-5302-4697-AB64-9C2F550FCA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62270BA5-5302-4697-AB64-9C2F550FCA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62270BA5-5302-4697-AB64-9C2F550FCA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0A590D-F037-470E-96A6-1E09F5E126A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0A590D-F037-470E-96A6-1E09F5E126A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0A590D-F037-470E-96A6-1E09F5E126A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0A590D-F037-470E-96A6-1E09F5E126A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB0A590D-F037-470E-96A6-1E09F5E126A3} = {A13BA041-CE31-434F-AB73-035FE15FF72D}
+	EndGlobalSection
+EndGlobal
